@@ -1,6 +1,5 @@
 ﻿/* TODO
- * -Fix gear shift (rapid fire shifting) 
- * -Refine jump
+ * - Setup UI
  */
 
 using System.Collections;
@@ -15,11 +14,12 @@ public class ArcadeCar : MonoBehaviour {
     private float jumpSpeed = 100.0f;
     public float topSpeed = 100f;
     public bool accelerate = true;
+    public UnityEngine.UI.Text textRef;
 
 	// Use this for initialization
 	void Start ()
     {
-		
+
 	}
 	
 	// Update is called once per frame
@@ -83,6 +83,8 @@ public class ArcadeCar : MonoBehaviour {
         {
             transform.Translate(Vector3.back * currentSpeed * Time.deltaTime);
         }
+
+        textRef.text = currentSpeed.ToString();
 
         //Debug.Log("accelerate: " + accelerate);
     }

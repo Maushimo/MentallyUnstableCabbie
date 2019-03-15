@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>D:\DEV\UNITY\PROJECTS\MentallyUnstableCabbie\MentallyUnstableCabbie_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\DEV\UNITY\PROJECTS\MentallyUnstableCabbie\MentallyUnstableCabbie_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\DEV\UNITY\PROJECTS\MentallyUnstableCabbie\MentallyUnstableCabbie_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\DEV\UNITY\PROJECTS\MentallyUnstableCabbie\MentallyUnstableCabbie_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* TODO
+ * -Get customer to ride
+ * -Set waypoint - pathfinding
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -11,14 +11,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 928ea0909c9f2494e8e6cf3fd3bd5aa1, type: 3}
   m_Name: AkWwiseProjectData
   m_EditorClassIdentifier: 
-  AcousticTextureWwu: []
-  AuxBusWwu: []
-  BankWwu: []
-  EventWwu: []
-  RtpcWwu: []
-  StateWwu: []
-  SwitchWwu: []
-  TriggerWwu: []
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 89174d68a50df8419ba81b450aa9015a
+    m_lastTime: -8586498793251861848
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0ef5a508bd1e744eb8a2d356c3427de2
+    m_lastTime: -8586498793250561670
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 49d2667245d6b14f927fe39e82568e8d
+    m_lastTime: -8586498793249895696
+    List: []
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 048a13b7b4fa8a499c31f3a5f2acbad7
+    m_lastTime: -8586498793251211853
+    List: []
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 79bbd351d4cb93409e3e18d1c6834a9a
+    m_lastTime: -8586498793251141842
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: a72bd8bc001a8d41bd94a9f5d7dfa18b
+    m_lastTime: -8586498793249775695
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: af0064333c93c84387c1924965afc098
+    m_lastTime: -8586498793249845683
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 71bc8bc4ac027d47a023ba05530bed46
+    m_lastTime: -8586498793250375681
+    List: []
   ExpandedItems: []
   autoPopulateEnabled: 1
   CurrentPluginConfig: 
